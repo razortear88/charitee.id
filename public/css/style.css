@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #00C2FF;
+}
+
+.carousel-caption {
+    left: 0%;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    bottom: 0%;
+    height: 40%;
+}
+
+.bi{
+    font-size: 30px;
+}
+
+#inputNominal{
+    text-align: right;
+}
+
+#berat_donasi_barang{
+    text-align: right;
+    text-indent: 10px;
+}
