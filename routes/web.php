@@ -79,3 +79,6 @@ Route::get('/admin/kategori/checkSlug',[AdminKategoriKebutuhanController::class,
 Route::get('/navbar',function(){
     return view('layouts.header');
 });
+Route::get('/footer',function(){
+    return view('layouts.footer');
+});
